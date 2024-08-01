@@ -1,0 +1,1 @@
+Neste exemplo estamos realizando o clone de um repositório.
